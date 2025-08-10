@@ -39,4 +39,3 @@ The repository provides the source code for a basic web application, including:
 
 ---
 
-Feel free to customize this template further to better fit your project's specifics.
